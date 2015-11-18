@@ -1,5 +1,5 @@
 {
-  "name": "parse-develop2",
+  "name": "parse-dev",
   "version": "0.0.56.1",
   "description": "A Parse Cloud local dev environment",
   "main": "index.js",
@@ -38,6 +38,7 @@
   ],
   "bin": {
     "parse-develop": "./parse-develop",
+    "parse-dev": "./parse-develop",
     "parsedev": "./parse-develop"
   },
   "author": "Florent Vilmart",
