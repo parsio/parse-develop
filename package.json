@@ -1,5 +1,5 @@
 {
-  "name": "parse-develop",
+  "name": "parse-develop2",
   "version": "0.0.56.1",
   "description": "A Parse Cloud local dev environment",
   "main": "index.js",
@@ -12,7 +12,7 @@
     "parse-express-https-redirect": "~0.0.1",
     "parse-express-raw-body": "~0.0.1",
     "parse-image": "~0.0.4",
-    "express": "git://github.com/parsio/express#3.1.2-parse",
+    "express": "git://github.com/parsio/express#3.1.0-parse-version",
     "ejs": "~0.8.3",
     "jade": "~0.28.2",
     "underscore": "~1.4.2",
